@@ -1,12 +1,12 @@
 colors: 
-    extension: -colors.json
+    filename: colors.json
     output: .config/powerline
-colorschemes_base16:
+colorschemes-base16:
     extension: .json
     output: .config/powerline/colorschemes
-colorschemes_base16:
+colorschemes-base16:
     extension: .json
     output: .config/powerline/colorschemes/shell
-colorschemes_vim_base16:
+colorschemes-vim-base16:
     extension: .json
     output: .config/powerline/colorschemes/vim
