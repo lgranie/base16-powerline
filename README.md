@@ -1,6 +1,7 @@
 # base16-powerline
 A base16 template for Powerline (shell, tmux and vim)
+Generated ~/.config/powerline/colors.json
 
 # Installation
-Copy the generated .json file to ~/.config/powerline/colorschemes
-Edit ~/.config/powerline/config.json and replace colorschemes entries with base16-powerline
+You will need something like : 
+https://github.com/lgranie/dotfiles/tree/master/home/.config/powerline
