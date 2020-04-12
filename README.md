@@ -4,4 +4,4 @@ Generated ~/.config/powerline/colors.json
 
 # Installation
 You will need something like : 
-https://github.com/lgranie/dotfiles/tree/master/home/.config/powerline
+https://github.com/lgranie/dotfiles/tree/master/powerline/.config/powerline
