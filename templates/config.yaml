@@ -1,3 +1,7 @@
+
 default: 
-    filename: colors.json
+    filename: colors16.json
+    output: .config/powerline
+default-24: 
+    filename: colors24.json
     output: .config/powerline
